@@ -1,0 +1,13 @@
+/vendor/
+
+.env
+.env.local
+
+*.log
+
+.vscode/
+.idea/
+
+Thumbs.db
+Desktop.ini
+.DS_Store
